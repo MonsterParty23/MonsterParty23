@@ -1,6 +1,5 @@
-🎓 Educational Background
-SHS S.Y 2023-2024 | Information Technology - Computer System Servicing | SOUTH EAST - ASIA INSTITUTE OF TRADE AND TECHNOLOGY
-Incoming 2nd-Year Computer Science Student | ASIAN INSTITUTE OF COMPUTER STUDIES 
+💻SHS GRADUATE S.Y 2023-2024 - IT - Computer System Servicing | South East - Asian Institute of Trade and Technology 
 
+📚Bachelor of Science in Computer Science | Asian Institute of Computer Studies
 
-
+🎓Aspiring Full-Stack Developer | Consistent Learner

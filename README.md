@@ -30,7 +30,8 @@ Self Motivation
 - Proactive approach to tasks and problem solving.
 - Results-driven mindset.
 
+
 Adaptability
--Flexibility in handling changes and unexpected challenges.
--Openness to new tools and technologies.
--Ability to pivot quickly when needed.
+- Flexibility in handling changes and unexpected challenges.
+- Openness to new tools and technologies.
+- Ability to pivot quickly when needed.
